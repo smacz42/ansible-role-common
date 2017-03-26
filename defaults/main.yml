@@ -36,6 +36,7 @@ extra_progs:
   - vim
   - weechat
   - wget
+  - unzip
   - zsh
   - bind-utils
   - whois
@@ -48,6 +49,7 @@ extra_progs:
   - util-linux
   - postfix
   - iftop
+  - wget
 
 extra_services:
   - fail2ban
